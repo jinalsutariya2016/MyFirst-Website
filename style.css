@@ -1,0 +1,164 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0  auto;
+  color: #66BFBF;
+}
+
+h2{
+  margin-top: 0;
+  color:  #11999E;
+  font-family: 'Courgette', cursive;
+}
+
+h3{
+  color:  #0278ae;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+
+}
+
+a{
+  color:  #11999E;
+  margin: 10px;
+  text-decoration: none;
+  font-family: 'Libre Baskerville', serif;
+}
+a:hover{
+  color: white;
+}
+
+.contact-page-hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 25%;
+}
+
+ .Health{
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+.Hello{
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  width: 30%;
+  margin-left: 35%;
+}
+.a-programmer{
+  font-family: 'Courgette', cursive;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 500px;
+}
+
+.top-Container{
+  background-color: #c6fced;
+  padding-top: 100px;
+}
+
+.contact-me{
+
+  padding-top: 20px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.profile{
+  background-color: #f9e0ae;
+  padding-top: 60px;
+}
+
+.skills{
+  /* background-color: #c6fced; */
+  padding-top: 20px;
+
+}
+.contact-page{
+  background-color: #b0e0e6;
+  text-align: center;
+
+}
+.contact-1{
+  font-size: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-me{
+  padding-bottom: 50px;
+}
+
+.computer{
+  /* width: 25% */
+   float: left;
+
+}
+.salad{
+  /* width: 25% */
+  float: right;
+
+}
+.button {
+   background: #3D94F6;
+   height: 50px;
+   line-height: 50px;
+   color: #f2d974;
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+   width: 200px;
+   font-size: 30px;
+   font-weight: 100;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   display: inline-block;
+   text-align: center;
+}
+
+.button:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+
+}
+
+.Footer-copyright{
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding-top: 30px;
+}
+.contact-info{
+font-family: 'Dancing Script', cursive;
+}
